@@ -16,7 +16,7 @@ You can run the Chatbot.ipynb which also includes step by step instructions in J
 Or
 You can run Chatbot Through Terminal
 #
-git clone 
+git clone https://github.com/BBvmlabs/project-chatbot.git
 
 cd 
 

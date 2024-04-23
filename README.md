@@ -13,14 +13,22 @@ Although this chatbot may not have exceptional cognitive skills or be state-of-t
 
 # How to Use the Chatbot
 You can run the Chatbot.ipynb which also includes step by step instructions in Jupyter Notebook.
-Or
+###Or
 You can run Chatbot Through Terminal
-#
+```
 git clone https://github.com/BBvmlabs/project-chatbot.git
-
-cd 
-
+cd project-chatbot
+cd project
 pip install -r requirements.txt
-
 python app.py
-#
+```
+
+# Screenshots
+
+![1](https://github.com/BBvmlabs/project-chatbot/assets/104076909/49fce8e7-1c3b-467f-adff-b4888f4fd408)
+
+![2](https://github.com/BBvmlabs/project-chatbot/assets/104076909/60da9cb6-393b-49d7-b275-75f1f147661b)
+
+![3](https://github.com/BBvmlabs/project-chatbot/assets/104076909/e7b08558-34db-4772-af26-80207b8cfeb8)
+
+![4](https://github.com/BBvmlabs/project-chatbot/assets/104076909/0ad9c461-1522-439f-818a-284ec705b306)
